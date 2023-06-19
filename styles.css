@@ -1,6 +1,4 @@
 body{
-	background-color:yellow;
-}
-div{
-	display:inline;
+	background:yellow;
+	text-align:center;
 }
